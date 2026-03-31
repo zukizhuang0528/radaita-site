@@ -19,9 +19,6 @@ import {
   CircleDashed,
   Layers,
   Fingerprint,
-  FileKey,
-  Users,
-  Search,
   CheckCircle2,
   Workflow
 } from "lucide-react";
@@ -152,7 +149,6 @@ export function PlatformArchitecture() {
       {/* 2. The Core Architecture of the Platform */}
       <section className="py-[128px] relative bg-[#0A0A0A] border-b border-[#E8E7EF]/10 overflow-hidden">
         <div className="w-full max-w-[1200px] mx-auto">
-          
           <div className="text-center max-w-3xl mx-auto mb-[80px]">
             <h2 className="text-[54px] leading-[64px] font-bold text-[#FFFFFF] tracking-tight mb-[24px]">
               The Core Architecture of the Platform
@@ -379,138 +375,6 @@ export function PlatformArchitecture() {
               </div>
             ))}
           </div>
-        </div>
-      </section>
-
-      {/* 4. Data Flywheel */}
-      <section className="py-[128px] relative bg-[#0A0A0A] border-b border-[#E8E7EF]/10">
-        <div className="w-full max-w-[1200px] mx-auto flex flex-col lg:flex-row gap-[64px] lg:gap-[96px] items-center">
-          
-          <div className="lg:w-1/2 flex flex-col order-2 lg:order-1">
-             <div className="relative w-full h-[450px] lg:h-[600px] bg-[#161616] border border-[#E8E7EF]/10 rounded-[24px] overflow-hidden flex items-center justify-center shadow-[0_0_40px_rgba(139,92,246,0.1)]">
-                
-                <img src="https://images.unsplash.com/photo-1646207753692-5bc9962e55f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyb3RhdGlvbiUyMGNpcmNsZSUyMGFic3RyYWN0JTIwcHVycGxlJTIwbmVvbnxlbnwxfHx8fDE3NzQ3ODY2NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" className="absolute inset-0 w-full h-full object-cover opacity-20 mix-blend-screen" alt="Data Flywheel" />
-                <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,transparent_30%,#161616_80%)]"></div>
-
-                <div className="relative w-[300px] h-[300px]">
-                   <motion.div className="absolute inset-0 border-[4px] border-t-[#8B5CF6] border-r-[#D946EF] border-b-transparent border-l-transparent rounded-full" animate={{ rotate: 360 }} transition={{ duration: 4, repeat: Infinity, ease: "linear" }} />
-                   <motion.div className="absolute inset-[-20px] border-[2px] border-dashed border-[#8B5CF6]/30 rounded-full" animate={{ rotate: -360 }} transition={{ duration: 20, repeat: Infinity, ease: "linear" }} />
-                   
-                   <div className="absolute inset-0 flex items-center justify-center">
-                     <div className="text-center">
-                       <RefreshCw className="w-[40px] h-[40px] text-[#FFFFFF] mx-auto mb-[8px]" />
-                       <span className="text-[16px] leading-[24px] font-bold text-[#E8E7EF] block">Data<br/>Flywheel</span>
-                     </div>
-                   </div>
-
-                   {/* External Nodes */}
-                   <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-[#0A0A0A] border border-[#8B5CF6]/50 px-[16px] py-[8px] rounded-[8px] whitespace-nowrap shadow-lg">
-                     <span className="text-[12px] font-bold text-[#8B5CF6]">AI Pre-Annotation</span>
-                   </div>
-                   <div className="absolute top-1/2 right-0 translate-x-1/2 -translate-y-1/2 bg-[#0A0A0A] border border-[#D946EF]/50 px-[16px] py-[8px] rounded-[8px] whitespace-nowrap shadow-lg">
-                     <span className="text-[12px] font-bold text-[#D946EF]">Human Refinement</span>
-                   </div>
-                   <div className="absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 bg-[#0A0A0A] border border-[#E8E7EF]/30 px-[16px] py-[8px] rounded-[8px] whitespace-nowrap shadow-lg">
-                     <span className="text-[12px] font-bold text-[#E8E7EF]">Higher Quality Data</span>
-                   </div>
-                   <div className="absolute top-1/2 left-0 -translate-x-1/2 -translate-y-1/2 bg-[#0A0A0A] border border-[#8B5CF6]/30 px-[16px] py-[8px] rounded-[8px] whitespace-nowrap shadow-lg">
-                     <span className="text-[12px] font-bold text-[#8B5CF6]">Better Models</span>
-                   </div>
-                </div>
-             </div>
-          </div>
-
-          <div className="lg:w-1/2 flex flex-col order-1 lg:order-2">
-            <h2 className="text-[54px] leading-[64px] font-bold text-[#FFFFFF] tracking-tight mb-[24px]">
-              Data Flywheel: Better Data Improves the Platform Itself
-            </h2>
-            <p className="text-[16px] leading-[24px] text-[#9CA3AF] font-normal mb-[48px]">
-              AI-assisted production and human refinement do not just create datasets — they continuously improve the platform’s own annotation capabilities over time.
-            </p>
-
-            <div className="bg-[#161616] border border-[#E8E7EF]/10 rounded-[16px] p-[32px]">
-               <h3 className="text-[16px] leading-[24px] font-bold text-[#FFFFFF] mb-[16px]">Compounding Efficiency</h3>
-               <ul className="space-y-[12px]">
-                 <li className="flex items-start gap-[12px]">
-                   <div className="w-[6px] h-[6px] rounded-full bg-[#8B5CF6] mt-[8px]"></div>
-                   <span className="text-[14px] leading-[20px] text-[#9CA3AF]">AI pre-annotation handles the baseline.</span>
-                 </li>
-                 <li className="flex items-start gap-[12px]">
-                   <div className="w-[6px] h-[6px] rounded-full bg-[#D946EF] mt-[8px]"></div>
-                   <span className="text-[14px] leading-[20px] text-[#9CA3AF]">Human experts correct edge cases and errors.</span>
-                 </li>
-                 <li className="flex items-start gap-[12px]">
-                   <div className="w-[6px] h-[6px] rounded-full bg-[#8B5CF6] mt-[8px]"></div>
-                   <span className="text-[14px] leading-[20px] text-[#9CA3AF]">The corrected data loops back to train the platform's models.</span>
-                 </li>
-                 <li className="flex items-start gap-[12px]">
-                   <div className="w-[6px] h-[6px] rounded-full bg-[#E8E7EF] mt-[8px]"></div>
-                   <span className="text-[14px] leading-[20px] text-[#FFFFFF] font-bold">Result: Faster production and smarter AI tools on the next iteration.</span>
-                 </li>
-               </ul>
-            </div>
-          </div>
-
-        </div>
-      </section>
-
-      {/* 5. Flywheels Beyond Production: Synthetic and Compliance Loops */}
-      <section className="py-[128px] relative bg-[#0A0A0A] border-b border-[#E8E7EF]/10">
-        <div className="w-full max-w-[1200px] mx-auto">
-          
-          <div className="text-center max-w-3xl mx-auto mb-[80px]">
-            <h2 className="text-[54px] leading-[64px] font-bold text-[#FFFFFF] tracking-tight mb-[24px]">Flywheels Beyond Production</h2>
-            <p className="text-[16px] leading-[24px] text-[#9CA3AF] font-normal">
-              The platform compounds value not only through production efficiency, but also through synthetic-data improvement and compliant multi-party data collaboration.
-            </p>
-          </div>
-
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-[48px]">
-             
-             {/* Synthetic Flywheel */}
-             <div className="bg-[#161616] border border-[#E8E7EF]/10 rounded-[24px] p-[48px] flex flex-col items-center relative overflow-hidden group shadow-[0_0_30px_rgba(0,0,0,0.5)] hover:border-[#8B5CF6]/30 transition-colors">
-                <img src="https://images.unsplash.com/photo-1520781673738-c64b5a7b9299?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkdWFsJTIwbm9kZSUyMGNvbm5lY3Rpb24lMjBkYXJrJTIwdGVjaCUyMG5lb258ZW58MXx8fHwxNzc0Nzg2NjQyfDA&ixlib=rb-4.1.0&q=80&w=1080" className="absolute inset-0 w-full h-full object-cover opacity-10 mix-blend-screen" alt="Tech Loop" />
-                <div className="absolute inset-0 bg-gradient-to-t from-[#161616] to-transparent"></div>
-
-                <div className="w-[160px] h-[160px] relative mb-[32px]">
-                  <motion.div className="absolute inset-0 border-[3px] border-dashed border-[#8B5CF6] rounded-full" animate={{ rotate: 360 }} transition={{ duration: 15, repeat: Infinity, ease: "linear" }} />
-                  <div className="absolute inset-0 flex items-center justify-center">
-                    <Repeat className="w-[40px] h-[40px] text-[#8B5CF6]" />
-                  </div>
-                </div>
-                
-                <h3 className="text-[24px] leading-[32px] font-bold text-[#FFFFFF] mb-[16px] relative z-10">Synthetic Flywheel</h3>
-                <div className="flex flex-col gap-[12px] w-full text-center relative z-10">
-                  <span className="text-[14px] leading-[20px] text-[#9CA3AF] bg-[#0A0A0A] border border-[#E8E7EF]/5 rounded-[8px] py-[8px]">Generate Synthetic Data</span>
-                  <span className="text-[14px] leading-[20px] text-[#9CA3AF] bg-[#0A0A0A] border border-[#E8E7EF]/5 rounded-[8px] py-[8px]">Compare Real vs Synthetic</span>
-                  <span className="text-[14px] leading-[20px] text-[#9CA3AF] bg-[#0A0A0A] border border-[#E8E7EF]/5 rounded-[8px] py-[8px]">Analyze Human-labeled Diff</span>
-                  <span className="text-[14px] leading-[20px] font-bold text-[#8B5CF6] bg-[#8B5CF6]/10 border border-[#8B5CF6]/30 rounded-[8px] py-[8px]">Improve Simulation Models</span>
-                </div>
-             </div>
-
-             {/* Compliance Flywheel */}
-             <div className="bg-[#161616] border border-[#E8E7EF]/10 rounded-[24px] p-[48px] flex flex-col items-center relative overflow-hidden group shadow-[0_0_30px_rgba(0,0,0,0.5)] hover:border-[#D946EF]/30 transition-colors">
-                <img src="https://images.unsplash.com/photo-1520781673738-c64b5a7b9299?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkdWFsJTIwbm9kZSUyMGNvbm5lY3Rpb24lMjBkYXJrJTIwdGVjaCUyMG5lb258ZW58MXx8fHwxNzc0Nzg2NjQyfDA&ixlib=rb-4.1.0&q=80&w=1080" className="absolute inset-0 w-full h-full object-cover opacity-10 mix-blend-screen hue-rotate-180" alt="Tech Loop" />
-                <div className="absolute inset-0 bg-gradient-to-t from-[#161616] to-transparent"></div>
-
-                <div className="w-[160px] h-[160px] relative mb-[32px]">
-                  <motion.div className="absolute inset-0 border-[3px] border-dashed border-[#D946EF] rounded-full" animate={{ rotate: -360 }} transition={{ duration: 15, repeat: Infinity, ease: "linear" }} />
-                  <div className="absolute inset-0 flex items-center justify-center">
-                    <CircleDashed className="w-[40px] h-[40px] text-[#D946EF]" />
-                  </div>
-                </div>
-                
-                <h3 className="text-[24px] leading-[32px] font-bold text-[#FFFFFF] mb-[16px] relative z-10">Compliance Flywheel</h3>
-                <div className="flex flex-col gap-[12px] w-full text-center relative z-10">
-                  <span className="text-[14px] leading-[20px] text-[#9CA3AF] bg-[#0A0A0A] border border-[#E8E7EF]/5 rounded-[8px] py-[8px]">Trusted Space & Federated Learning</span>
-                  <span className="text-[14px] leading-[20px] text-[#9CA3AF] bg-[#0A0A0A] border border-[#E8E7EF]/5 rounded-[8px] py-[8px]">Secure Multi-Party Participation</span>
-                  <span className="text-[14px] leading-[20px] text-[#9CA3AF] bg-[#0A0A0A] border border-[#E8E7EF]/5 rounded-[8px] py-[8px]">Stronger Data Access Value</span>
-                  <span className="text-[14px] leading-[20px] font-bold text-[#D946EF] bg-[#D946EF]/10 border border-[#D946EF]/30 rounded-[8px] py-[8px]">Ecosystem Growth</span>
-                </div>
-             </div>
-
-          </div>
-
         </div>
       </section>
 
