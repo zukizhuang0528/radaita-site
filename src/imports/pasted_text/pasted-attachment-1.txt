@@ -1,0 +1,351 @@
+Please use the attached landing page design as the base and continue designing on top of that existing layout and visual system.
+
+Do not redesign the whole page from scratch.
+Do not replace the overall layout logic unless necessary to support the requested interactions.
+Keep the page aligned with the existing:
+	•	visual style
+	•	design system
+	•	typography hierarchy
+	•	color system
+	•	button styles
+	•	spacing rhythm
+	•	header and footer structure
+
+The goal is to enhance and complete the existing landing page design by adding the following features and content behaviors.
+
+Also, make this landing page accessible through the header Logo link.
+
+⸻
+
+1. Hero
+
+Please keep the hero layout from the attached design, but add the following motion behavior:
+
+Particle text animation
+
+Implement a particle-based text animation where particles form these three text states in sequence:
+	1.	Radaita
+	2.	Transform complexity into
+	3.	AI-ready data
+
+Behavior:
+	•	particles drift in and gather into the current phrase
+	•	hold briefly
+	•	dissolve and reform into the next phrase
+	•	loop continuously
+
+At the same time, the hero background should always contain slowly floating particles.
+
+Motion requirements
+	•	elegant and premium
+	•	not noisy or chaotic
+	•	particle background should feel atmospheric and restrained
+	•	the hero should feel like complexity is being transformed into structured intelligence
+
+⸻
+
+2. Trusted by Global Enterprises and Innovators
+
+For the logo strip in this section:
+	•	make the logos scroll slowly from right to left
+	•	use a seamless marquee loop
+	•	keep the motion subtle and premium
+	•	avoid abrupt jumps or fast ticker-like movement
+
+⸻
+
+3. Core Annotation Capabilities for AI-ready Data
+
+In this section, keep the existing design structure, but update it as follows:
+
+Tabs
+
+Change the tab set from 4 items to 5 items:
+	1.	Multimodal Video Annotation
+	2.	Point Cloud Annotation
+	3.	Image Annotation
+	4.	Speech Annotation
+	5.	Text Annotation
+
+Auto rotation
+	•	auto-switch to the next tab every 5 seconds
+	•	loop continuously
+	•	manual tab click should also work
+
+For each tab, update the background image, short description, long description, and tags
+
+1) Multimodal Video Annotation
+
+Short description:
+Temporal understanding across frames, events, and multi-signal context.
+
+Long description:
+Build structured video datasets for behavior analysis, event segmentation, sequence understanding, and multimodal model training. Supports frame-level review, keyframe labeling, temporal segmentation, and scene-aware annotation across complex workflows.
+
+Tags:
+Temporal Segmentation · Event Labeling · Sequence Understanding · Behavior Analysis · Multimodal Context
+
+2) Point Cloud Annotation
+
+Short description:
+Precise 3D structure understanding for spatially complex environments.
+
+Long description:
+Support 3D cuboids, point cloud segmentation, free-space understanding, spatial alignment, and multi-frame 3D annotation for autonomous systems, robotics, and perception-heavy AI models.
+
+Tags:
+3D Cuboids · Point Cloud Segmentation · Free Space · Spatial Alignment · Multi-Frame 3D
+
+3) Image Annotation
+
+Short description:
+High-precision visual labeling for structured perception tasks.
+
+Long description:
+Support bounding boxes, polygons, semantic segmentation, keypoint / pose annotation, and fine-grained image understanding across large-scale training pipelines for image-based AI systems.
+
+Tags:
+Bounding Box · Polygon · Semantic Segmentation · Keypoints · Fine-Grained Vision
+
+4) Speech Annotation
+
+Short description:
+High-quality speech data workflows for ASR, TTS, and multilingual voice AI.
+
+Long description:
+Support speech-to-text, text-to-speech, intent / semantic labeling, multilingual voice resource construction, and quality-controlled speech datasets across real deployment environments.
+
+Tags:
+ASR · TTS · Multilingual Speech · Intent Labeling · Audio QA
+
+5) Text Annotation
+
+Short description:
+Structured semantic data for LLM training, evaluation, and alignment.
+
+Long description:
+Support QA construction, multi-turn dialogue annotation, rewriting, summarization, preference labeling, evaluation, and alignment data production for LLM and semantic AI workflows.
+
+Tags:
+QA · Dialogue · Rewrite · Evaluation · Alignment
+
+⸻
+
+4. Automation-Assisted Labeling That Speeds Up Quality Work
+
+Please revise the copy in this section to better reflect the platform’s known capability.
+
+Heading
+
+Keep the current heading.
+
+Updated content direction
+
+Use content based on:
+	•	AI pre-labeling
+	•	cross-frame propagation
+	•	cross-modal reuse
+	•	human-in-the-loop quality control
+
+Suggested supporting copy
+
+Combine proprietary AI pre-labeling and human refinement workflows to accelerate production while preserving annotation quality. From pre-label generation and temporal propagation to cross-modal reuse and multi-stage review, the platform is built to reduce repetitive work without sacrificing control.
+
+Suggested feature points
+	•	Pre-labeling workflows
+	•	Cross-frame propagation
+	•	Cross-modal reuse
+	•	Human-in-the-loop quality control
+
+⸻
+
+5. Autonomous Driving Data Labeling for Perception, Planning, and In-Cabin Intelligence
+
+Please revise the content in this section based on the known autonomous-driving capability.
+
+Updated content direction
+
+Emphasize:
+	•	3D detection
+	•	free-space understanding
+	•	2D / 3D fusion
+	•	HD map structure
+	•	scenario / behavior annotation
+	•	VLA-oriented scene understanding
+
+Suggested supporting copy
+
+Support end-to-end autonomous driving data production across LiDAR, vision, sensor fusion, HD map structure, scenario understanding, and VLA-oriented annotation — helping AV teams build high-quality datasets for perception, planning, and driving intelligence.
+
+Suggested supporting points
+	•	3D detection and free-space understanding
+	•	2D / 3D sensor fusion
+	•	HD map and road-structure annotation
+	•	Scenario and behavior labeling
+	•	VLA-oriented scene understanding
+
+⸻
+
+6. Embodied AI Annotation for Robotics, Action, and Scene Understanding
+
+Please revise this section using the existing design as the base.
+
+Content direction
+
+Update the copy to reflect:
+	•	robot perception
+	•	action understanding
+	•	human demonstration
+	•	multimodal scene interpretation
+	•	long-horizon task execution
+
+Suggested supporting copy
+
+Train embodied systems with annotation workflows for robot perception, action understanding, human demonstration, multimodal scene interpretation, and long-horizon task execution.
+
+Interaction requirements
+	•	keep one static main background image for now
+	•	make the surrounding icons / nodes float slightly
+	•	on hover, each icon should expand and reveal more detailed content
+
+Suggested icon topics and expanded content
+
+Perception
+
+2D / 3D perception signals for objects, structure, and spatial awareness in real environments.
+
+Action Understanding
+
+Sequence-aware labeling for robot motion, task progression, and action semantics.
+
+Human Demonstration
+
+Capture and annotate human-in-the-loop interaction data for imitation learning and policy training.
+
+2D–3D Alignment
+
+Link visual and spatial signals to build perception-ready embodied datasets.
+
+Scene Semantics
+
+Model complex environments with semantic structure, traversable paths, and task-relevant context.
+
+Multimodal Coordination
+
+Combine vision, motion, language, and interaction signals into unified training data.
+
+⸻
+
+7. Medical Imaging and Clinical Data Labeling for Accuracy-Sensitive AI
+
+Please revise this section while keeping the existing design direction.
+
+Interaction requirement
+
+Change the left side into a vertical tab system.
+
+When a tab is clicked, update:
+	•	the right-side image
+	•	the supporting text
+
+Suggested tab set
+
+1) Medical Imaging Annotation
+
+Text:
+Pixel-level segmentation and lesion / organ / vascular structure annotation for medical imaging AI models.
+
+2) Medical NLP & Knowledge Structuring
+
+Text:
+Transform unstructured clinical text into structured entities, relations, and medical knowledge assets.
+
+3) Consultation Dialogue Data
+
+Text:
+Structured doctor-patient dialogue data aligned to consultation flow, diagnosis logic, and treatment pathways.
+
+4) RAG & Reasoning Data
+
+Text:
+Grounded medical retrieval and reasoning data to improve knowledge accuracy and reduce hallucination.
+
+5) Medical DataOps & Training Loop
+
+Text:
+From annotation to training feedback, support a continuous medical AI data loop with visibility and control.
+
+Please also update the corresponding right-side images to match each tab.
+
+⸻
+
+8. Trusted by Global Enterprises and Innovators (logo wall near bottom)
+
+Keep this section, but ensure it feels like a stronger enterprise trust block.
+	•	logos can remain more stable than the upper marquee
+	•	maintain premium spacing and visual polish
+	•	keep it aligned with the existing layout
+
+⸻
+
+9. Closing CTA
+
+Keep the current closing CTA section, but make sure it works well with the updated page flow.
+
+Use:
+	•	strong premium CTA presence
+	•	current button system
+	•	calm atmospheric treatment
+
+⸻
+
+Motion / interaction summary
+
+Please implement these specific behaviors:
+
+Hero
+	•	particle text formation for:
+	•	Radaita
+	•	Transform complexity into
+	•	AI-ready data
+	•	slow drifting particles in background at all times
+
+Trusted logo strip near top
+	•	slow right-to-left continuous marquee
+
+Core Annotation Capabilities
+	•	5 tabs
+	•	auto-rotate every 5 seconds
+	•	loop continuously
+
+Embodied AI section
+	•	surrounding icons float slightly
+	•	hover expands them into richer content cards
+
+Medical section
+	•	left vertical tabs
+	•	clicking changes image and text on the right
+
+⸻
+
+Important scope control
+
+Please do not:
+	•	redesign the whole landing page
+	•	replace the current page structure
+	•	ignore the attached design
+	•	invent a new layout system unrelated to the provided design
+	•	change the overall style direction
+
+Use the attached landing page design as the main source of truth, and only extend / refine it with the requirements above.
+
+⸻
+
+Final expectation
+
+The result should feel like:
+	•	the same landing page design
+	•	but completed with richer content, stronger interactions, and more domain-specific accuracy
+	•	still fully aligned with the current website design system
+	•	still premium, dark, and purple-led
+	•	more expressive and more informative without breaking the original design direction

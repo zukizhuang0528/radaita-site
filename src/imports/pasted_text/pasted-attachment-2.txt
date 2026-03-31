@@ -1,0 +1,390 @@
+Now keep the current restored Landing Page as the base.
+
+Do not redesign the page again.
+Do not change the section order.
+Do not replace the restored layout with a new one.
+Do not rewrite or replace existing unchanged copy outside the explicit edits below.
+
+Your task now is to enhance the already restored page by adding the following content, interactions, and motion behaviors on top of the current layout.
+
+The attached Figma design remains the structural source of truth.
+Please preserve the current restored composition and only apply the specific enhancements below.
+
+Also keep everything aligned with the existing design system and current visual style:
+	•	dark premium visual language
+	•	purple-led color system
+	•	current typography hierarchy
+	•	current button styles
+	•	current spacing rhythm
+	•	current component system
+
+⸻
+
+1. Hero enhancement
+
+Keep the current restored Hero layout, but add the following motion behavior:
+
+Particle text animation
+
+Implement a particle-based text animation that forms these three text states in sequence:
+	1.	Radaita
+	2.	Transform complexity into
+	3.	AI-ready data
+
+Motion logic
+	•	particles drift in and gather into the current phrase
+	•	hold briefly
+	•	dissolve and reform into the next phrase
+	•	loop continuously
+
+At the same time, the Hero background should always contain slowly floating particles.
+
+Important
+	•	do not change the current Hero structure
+	•	do not replace the Hero visual composition
+	•	only add this motion logic into the restored Hero
+	•	keep the effect elegant, premium, and restrained
+	•	avoid noisy or chaotic particle behavior
+
+⸻
+
+2. Trusted by Global Enterprises and Innovators
+
+In the existing logo strip section near the top:
+
+Add marquee motion
+	•	make the logos scroll slowly from right to left
+	•	keep the motion continuous and seamless
+	•	no abrupt jump
+	•	no fast ticker-like effect
+	•	keep the movement subtle and premium
+
+Important
+	•	preserve the current restored logo section layout
+	•	only add the marquee behavior
+
+⸻
+
+3. Core Annotation Capabilities for AI-ready Data
+
+Keep the current restored section structure, but update it as follows:
+
+Change tabs from 4 to 5
+
+Use these 5 tabs in this exact order:
+	1.	多模态视频标注 / Multimodal Video Annotation
+	2.	点云标注 / Point Cloud Annotation
+	3.	图像标注 / Image Annotation
+	4.	语音标注 / Speech Annotation
+	5.	文本标注 / Text Annotation
+
+Auto-rotation
+	•	auto-switch to the next tab every 5 seconds
+	•	loop continuously
+	•	manual click should also work
+	•	after manual interaction, auto-rotation can resume after a short pause
+
+Update content for each tab
+
+For each tab, update:
+	•	background image
+	•	short description
+	•	long description
+	•	tags
+
+1) Multimodal Video Annotation
+
+Short description:
+Temporal understanding across frames, events, and multi-signal context.
+
+Long description:
+Build structured video datasets for behavior analysis, event segmentation, sequence understanding, and multimodal model training. Supports frame-level review, keyframe labeling, temporal segmentation, and scene-aware annotation across complex workflows.
+
+Tags:
+Temporal Segmentation · Event Labeling · Sequence Understanding · Behavior Analysis · Multimodal Context
+
+2) Point Cloud Annotation
+
+Short description:
+Precise 3D structure understanding for spatially complex environments.
+
+Long description:
+Support 3D cuboids, point cloud segmentation, free-space understanding, spatial alignment, and multi-frame 3D annotation for autonomous systems, robotics, and perception-heavy AI models.
+
+Tags:
+3D Cuboids · Point Cloud Segmentation · Free Space · Spatial Alignment · Multi-Frame 3D
+
+3) Image Annotation
+
+Short description:
+High-precision visual labeling for structured perception tasks.
+
+Long description:
+Support bounding boxes, polygons, semantic segmentation, keypoint / pose annotation, and fine-grained image understanding across large-scale training pipelines for image-based AI systems.
+
+Tags:
+Bounding Box · Polygon · Semantic Segmentation · Keypoints · Fine-Grained Vision
+
+4) Speech Annotation
+
+Short description:
+High-quality speech data workflows for ASR, TTS, and multilingual voice AI.
+
+Long description:
+Support speech-to-text, text-to-speech, intent / semantic labeling, multilingual voice resource construction, and quality-controlled speech datasets across real deployment environments.
+
+Tags:
+ASR · TTS · Multilingual Speech · Intent Labeling · Audio QA
+
+5) Text Annotation
+
+Short description:
+Structured semantic data for LLM training, evaluation, and alignment.
+
+Long description:
+Support QA construction, multi-turn dialogue annotation, rewriting, summarization, preference labeling, evaluation, and alignment data production for LLM and semantic AI workflows.
+
+Tags:
+QA · Dialogue · Rewrite · Evaluation · Alignment
+
+Important
+	•	keep the current restored section composition
+	•	do not redesign the tab section
+	•	only increase the tab count and update content/behavior
+
+⸻
+
+4. Automation-Assisted Labeling That Speeds Up Quality Work
+
+Keep the current restored layout of this module, but revise the copy based on the platform’s known capability.
+
+Keep the section heading
+
+Automation-Assisted Labeling That Speeds Up Quality Work
+
+Replace the supporting copy with content aligned to:
+	•	AI pre-labeling
+	•	cross-frame propagation
+	•	cross-modal reuse
+	•	human-in-the-loop quality control
+
+Suggested main body copy
+
+Combine proprietary AI pre-labeling and human refinement workflows to accelerate production while preserving annotation quality. From pre-label generation and temporal propagation to cross-modal reuse and multi-stage review, the platform is built to reduce repetitive work without sacrificing control.
+
+Suggested supporting points
+	•	Pre-labeling workflows
+	•	Cross-frame propagation
+	•	Cross-modal reuse
+	•	Human-in-the-loop quality control
+
+Important
+	•	keep the current restored layout and composition
+	•	only update the content inside this section
+
+⸻
+
+5. Autonomous Driving Data Labeling for Perception, Planning, and In-Cabin Intelligence
+
+Keep the current restored module, but revise the content to align with the known autonomous-driving capability.
+
+Keep the heading
+
+Autonomous Driving Data Labeling for Perception, Planning, and In-Cabin Intelligence
+
+Suggested supporting copy
+
+Support end-to-end autonomous driving data production across LiDAR, vision, sensor fusion, HD map structure, scenario understanding, and VLA-oriented annotation — helping AV teams build high-quality datasets for perception, planning, and driving intelligence.
+
+Suggested supporting points
+	•	3D detection and free-space understanding
+	•	2D / 3D sensor fusion
+	•	HD map and road-structure annotation
+	•	Scenario and behavior labeling
+	•	VLA-oriented scene understanding
+
+Important
+	•	keep the current restored layout
+	•	do not redesign the module
+	•	only revise its content and supporting text
+
+⸻
+
+6. Embodied AI Annotation for Robotics, Action, and Scene Understanding
+
+Keep the current restored section layout, but update the content and interactions.
+
+Keep the heading
+
+Embodied AI Annotation for Robotics, Action, and Scene Understanding
+
+Suggested supporting copy
+
+Train embodied systems with annotation workflows for robot perception, action understanding, human demonstration, multimodal scene interpretation, and long-horizon task execution.
+
+Interaction requirements
+	•	keep one static main background image
+	•	make the surrounding icons / nodes float slightly
+	•	on hover, each icon expands and reveals more content
+
+Suggested icon topics and expanded content
+
+Perception
+
+2D / 3D perception signals for objects, structure, and spatial awareness in real environments.
+
+Action Understanding
+
+Sequence-aware labeling for robot motion, task progression, and action semantics.
+
+Human Demonstration
+
+Capture and annotate human-in-the-loop interaction data for imitation learning and policy training.
+
+2D–3D Alignment
+
+Link visual and spatial signals to build perception-ready embodied datasets.
+
+Scene Semantics
+
+Model complex environments with semantic structure, traversable paths, and task-relevant context.
+
+Multimodal Coordination
+
+Combine vision, motion, language, and interaction signals into unified training data.
+
+Important
+	•	preserve the restored structure
+	•	keep the current main image placement
+	•	only enrich the surrounding icon logic and hover behavior
+
+⸻
+
+7. Medical Imaging and Clinical Data Labeling for Accuracy-Sensitive AI
+
+Keep the current restored section, but turn it into a vertical-tab-driven interaction.
+
+Keep the heading
+
+Medical Imaging and Clinical Data Labeling for Accuracy-Sensitive AI
+
+Interaction requirement
+	•	left side becomes a vertical tab system
+	•	clicking a tab updates:
+	•	the right-side image
+	•	the supporting text
+
+Use these 5 tabs
+
+1) Medical Imaging Annotation
+
+Text:
+Pixel-level segmentation and lesion / organ / vascular structure annotation for medical imaging AI models.
+
+2) Medical NLP & Knowledge Structuring
+
+Text:
+Transform unstructured clinical text into structured entities, relations, and medical knowledge assets.
+
+3) Consultation Dialogue Data
+
+Text:
+Structured doctor-patient dialogue data aligned to consultation flow, diagnosis logic, and treatment pathways.
+
+4) RAG & Reasoning Data
+
+Text:
+Grounded medical retrieval and reasoning data to improve knowledge accuracy and reduce hallucination.
+
+5) Medical DataOps & Training Loop
+
+Text:
+From annotation to training feedback, support a continuous medical AI data loop with visibility and control.
+
+Also update the corresponding right-side visuals
+
+Each tab should change both image and text.
+
+Important
+	•	keep the current restored module as the base
+	•	do not redesign the section into a totally different structure
+	•	only adapt it into vertical-tab behavior inside the current composition
+
+⸻
+
+8. Lower enterprise trust block
+
+If there is already a second “Trusted by Global Enterprises and Innovators” or equivalent trust/logo section near the bottom, keep it and refine it to feel like a stronger enterprise-trust block.
+	•	keep it stable and premium
+	•	it does not need marquee motion
+	•	maintain current layout structure unless small refinement is needed for balance
+
+⸻
+
+9. Closing CTA
+
+Keep the current restored closing CTA section.
+
+Please ensure:
+	•	it stays visually aligned with the rest of the enhanced page
+	•	it uses the current button system
+	•	it works well after all the updated sections above
+
+You may refine the supporting copy slightly only if needed for consistency, but do not redesign the section.
+
+⸻
+
+Motion / interaction summary
+
+Please implement these behaviors on top of the restored page:
+
+Hero
+	•	particle text animation for:
+	•	Radaita
+	•	Transform complexity into
+	•	AI-ready data
+	•	slow drifting particles in background at all times
+
+Top trust logo strip
+	•	slow continuous right-to-left marquee
+
+Core Annotation Capabilities
+	•	5 tabs
+	•	auto-rotate every 5 seconds
+	•	loop continuously
+
+Embodied AI section
+	•	surrounding nodes float slightly
+	•	hover expands them into richer info cards
+
+Medical section
+	•	left vertical tabs
+	•	clicking changes right-side image and content
+
+⸻
+
+Scope protection
+
+Very important:
+Do not:
+	•	redesign the page again
+	•	change section order
+	•	replace restored layouts with new ones
+	•	rewrite unchanged text outside the requested edits
+	•	simplify the page structure
+	•	create a new landing page concept
+
+This step is only for enhancement on top of the restored version.
+
+If a requested interaction needs a small structural adjustment, keep that adjustment as minimal as possible and preserve the restored composition.
+
+⸻
+
+Final expectation
+
+The final result should feel like:
+	•	the same restored landing page
+	•	now enhanced with richer motion, more accurate domain content, and more specific interaction behavior
+	•	still fully aligned with the existing website design system
+	•	still visually premium, dark, and purple-led
+	•	more expressive and more useful, without drifting away from the original design

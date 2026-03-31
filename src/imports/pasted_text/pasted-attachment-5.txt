@@ -1,0 +1,295 @@
+Only update the homepage section currently titled:
+
+Embodied AI Annotation for Robotics, Action, and Scene Understanding
+
+For this step, do not modify any other section on the homepage.
+
+This is a section-only update.
+
+Please keep the overall section layout and structure, but update the content and interactions according to the following requirements.
+
+Also, the final result must follow the attached design references as closely as possible, especially for:
+	•	the hexagon icon style
+	•	the hover-expanded square content card style
+	•	the relationship between icon state and expanded card state
+	•	the visual hierarchy and composition of this section
+
+Do not reinterpret or restyle this section into a different design language.
+
+⸻
+
+1. Keep the section focus and layout, but update the content
+
+This section should continue to feel like a central interactive feature block for embodied AI, with:
+	•	a heading
+	•	a supporting paragraph
+	•	a central background image
+	•	multiple surrounding hexagon icons
+	•	hover-triggered expanded content cards
+
+Do not redesign the layout pattern.
+
+⸻
+
+2. Update the heading and supporting paragraph
+
+Heading
+
+Replace the current heading with:
+
+Embodied AI Annotation Across Interaction, Time, and Space
+
+Supporting paragraph
+
+Replace the current supporting paragraph with:
+
+Support embodied AI workflows with interactive segmentation, temporal event labeling, and 3D–2D aligned annotation for richer scene and action understanding.
+
+⸻
+
+3. Use 6 interactive points around the image
+
+Please use 6 content points only.
+
+Do not keep the old generic content set.
+Replace it with the following 6 points.
+
+Each point must have:
+	•	one hexagon icon in the default state
+	•	one title
+	•	one short description in the expanded state
+	•	a matching hover-expanded square content card
+
+⸻
+
+Point 1
+
+Title
+
+Interactive Segmentation
+
+Short description
+
+Trigger precise segmentation with minimal point-based input.
+
+Icon direction
+
+Use an icon that suggests:
+	•	click-based input
+	•	prompt-based targeting
+	•	precise trigger / selection
+
+⸻
+
+Point 2
+
+Title
+
+Context-Aware Refinement
+
+Short description
+
+Expand segmentation intelligently using surrounding visual context.
+
+Icon direction
+
+Use an icon that suggests:
+	•	refinement
+	•	expansion
+	•	context-based adjustment
+	•	adaptive mask growth
+
+⸻
+
+Point 3
+
+Title
+
+Human Validation
+
+Short description
+
+Use fast human review to verify and finalize segmentation results.
+
+Icon direction
+
+Use an icon that suggests:
+	•	validation
+	•	approval
+	•	human review
+	•	checked result
+
+⸻
+
+Point 4
+
+Title
+
+Temporal Annotation
+
+Short description
+
+Label actions and events across video time with flexible temporal controls.
+
+Icon direction
+
+Use an icon that suggests:
+	•	timeline
+	•	sequence
+	•	start/end markers
+	•	time-based segmentation
+
+⸻
+
+Point 5
+
+Title
+
+Temporal Consistency
+
+Short description
+
+Maintain event consistency across frames, segments, and evolving actions.
+
+Icon direction
+
+Use an icon that suggests:
+	•	continuity
+	•	linked frames
+	•	sequence consistency
+	•	stable event flow
+
+⸻
+
+Point 6
+
+Title
+
+3D–2D Alignment
+
+Short description
+
+Map 3D point clouds and 2D images into one aligned annotation workflow.
+
+Icon direction
+
+Use an icon that suggests:
+	•	cross-modal projection
+	•	cube + frame
+	•	3D to 2D mapping
+	•	spatial alignment
+
+⸻
+
+4. Strict style requirement for icons and expanded cards
+
+Please match the attached design style as closely as possible.
+
+Default icon state
+	•	each point is represented by a hexagon icon
+	•	icon treatment should match the design reference
+	•	do not change the hexagon visual language
+	•	keep it premium, clean, and integrated with the current site style
+
+Hover state
+
+When hovering a point:
+	•	the hexagon icon for that point should hide
+	•	a square / rectangular expanded content card should appear in its place or near its intended position
+	•	the expanded card should use the same style language as the attached design
+	•	the expanded card should contain:
+	•	the point title
+	•	the short description
+	•	do not keep both the icon and expanded card visible at the same time for that same point
+
+Important
+
+The hover-expanded card must feel like the design reference:
+	•	dark card
+	•	clean border / glow relationship
+	•	premium spacing
+	•	not tooltip-like
+	•	not a browser-style popup
+	•	not a different component style from the design
+
+⸻
+
+5. Background image update
+
+Replace the current background image with one that better represents the full embodied AI annotation workflow.
+
+Image requirements
+
+The image should be able to support most of the 6 points conceptually, not just one narrow use case.
+
+It should ideally suggest:
+	•	a robot / embodied system or robotic manipulation context
+	•	visual scene understanding
+	•	interaction / task execution
+	•	spatial or multimodal annotation potential
+	•	a technically grounded embodied AI setting
+
+Desired style
+	•	dark-toned or adaptable to the dark layout
+	•	not a plain white product shot
+	•	not overly abstract
+	•	not generic stock imagery
+	•	should feel like a serious embodied AI workflow visual
+	•	should work as the central “system image” behind the surrounding icons
+
+The goal is for the image to feel like a broad visual summary of:
+interaction + temporal understanding + 3D–2D aligned annotation for embodied AI
+
+⸻
+
+6. Add subtle scroll parallax to the icons and background
+
+Please add a very light parallax effect to:
+	•	the surrounding hexagon icons
+	•	the background image area
+
+Parallax requirements
+	•	the motion should be subtle
+	•	different elements can move at slightly different speeds
+	•	the effect should feel premium and restrained
+	•	do not overdo the movement
+	•	do not make the section feel unstable or floaty in a distracting way
+
+The purpose is only to add a little depth during scroll.
+
+⸻
+
+7. Keep the rest of the section unchanged
+
+Do not change:
+	•	the overall section layout
+	•	spacing rhythm
+	•	section placement on the homepage
+	•	other homepage modules
+	•	typography style beyond replacing the text content
+	•	the general dark premium visual language
+
+Only update:
+	•	heading
+	•	supporting paragraph
+	•	interactive point content
+	•	matching icons
+	•	hover-expanded content cards
+	•	background image
+	•	subtle parallax behavior
+
+⸻
+
+8. Final expectation
+
+The final section should remain the same Embodied AI homepage feature block structurally, but with:
+	•	the new heading
+	•	the new supporting paragraph
+	•	exactly 6 interactive points
+	•	each point using an appropriate hexagon icon
+	•	each point expanding into a square/rectangular content card on hover
+	•	the corresponding hexagon icon hiding when its expanded card is shown
+	•	a more suitable background image
+	•	subtle parallax on icons and background during scroll
+
+Everything should remain visually aligned with the attached design and the rest of the homepage.

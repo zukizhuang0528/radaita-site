@@ -1,0 +1,475 @@
+Revise the existing Platform Architecture page.
+
+This is not a new page.
+Please replace and restructure the current page layout and section composition while keeping it within the same website system.
+
+I will provide the existing Figma pages and current design system as references.
+Please continue designing strictly according to the existing design system and current style rules already established in the project.
+
+Keep the page fully aligned with the current:
+	•	visual language
+	•	typography hierarchy
+	•	color usage
+	•	spacing rhythm
+	•	component patterns
+	•	glow treatment
+	•	overall brand consistency
+
+Do not introduce a new visual direction.
+Do not create a separate style language for this page.
+This page should feel like a natural part of the same product website.
+
+⸻
+
+1. Main revision goal
+
+The current Platform Architecture page still feels too much like a series of adjacent feature blocks.
+
+I want to restructure it so that:
+	•	each section explains one layer of logic
+	•	the page feels more sequential and more architectural
+	•	the platform is understood as a system that compounds over time
+	•	circular, loop-based, and flywheel-inspired visuals are clearly present
+	•	the page visually communicates:
+platform core → operating loop → data flywheel → synthetic/compliance flywheels → security trust layer
+
+This page should feel:
+	•	more strategic
+	•	more systemic
+	•	more visual
+	•	more clearly sequenced
+	•	more “platform architecture + flywheel logic”
+	•	less like generic SaaS feature marketing
+
+⸻
+
+2. Updated page structure
+
+Please revise the page into the following structure:
+	1.	Hero
+	2.	The Core Architecture of the Platform
+	3.	How the Platform Operates as a Continuous Loop
+	4.	Data Flywheel: Better Data Improves the Platform Itself
+	5.	Flywheels Beyond Production: Synthetic and Compliance Loops
+	6.	Security Architecture Built Into Every Layer
+	7.	Closing CTA
+
+Each section should have a distinct layout and visual focus.
+Each section should explain one core idea only.
+
+⸻
+
+3. Important structural instruction
+
+The content should still be based on the uploaded platform-architecture document.  ￼
+
+However, do not present it as:
+	•	left text + right screenshot for every section
+	•	rows of feature cards
+	•	generic bullet summaries
+
+Instead, restructure the page into a more visual narrative with:
+	•	central architecture views
+	•	ring / loop / circular logic
+	•	flywheel graphics
+	•	layered system diagrams
+	•	trust / boundary visuals
+
+The page should visibly move from:
+platform structure → process loop → flywheel logic → trust architecture
+
+⸻
+
+4. Section-by-section content and visual guidance
+
+⸻
+
+Section 1 — Hero
+
+Section label: Platform Overview
+
+Headline:
+A Platform Built to Turn Complex Data into AI-Ready Assets
+
+Supporting paragraph:
+ADAOP brings together data collection, annotation, training, evaluation, and built-in governance in one unified system — helping teams manage the full lifecycle of AI data production with more clarity, control, and scale.
+
+CTA buttons:
+	•	Talk to Our Team
+	•	Explore Platform Capabilities
+
+Hero layout direction
+Use a premium split hero layout:
+	•	Left side: label, headline, supporting paragraph, CTA(s)
+	•	Right side: a platform-core visual
+
+Hero visual direction
+Do not use a simple square UI card or isolated system tile.
+
+Create a visual with:
+	•	a central ADAOP platform core
+	•	orbiting or surrounding nodes such as:
+	•	Collection
+	•	Annotation
+	•	Training
+	•	Evaluation
+	•	Quality
+	•	Security
+	•	subtle circular or semi-circular motion cues
+	•	a sense of controlled system orchestration
+
+The hero should already hint at:
+this is not a linear tool — it is a connected platform with loop potential
+
+Visual intent
+This section should introduce the page’s visual language:
+	•	center + orbit
+	•	structure + flow
+	•	platform + compounding system
+
+⸻
+
+Section 2 — The Core Architecture of the Platform
+
+Headline:
+The Core Architecture of the Platform
+
+Supporting paragraph:
+The platform is built around five core production stages, reinforced by native quality, compliance, and security layers, and extended through domain adaptation, resource fusion, and flexible computing infrastructure.
+
+Content to include
+Use the architecture logic from page 1 of the uploaded document:  ￼
+	•	5 core services:
+	•	Data Collection
+	•	MITL / Auto-Annotation
+	•	HITL Annotation
+	•	Model Training
+	•	Model Evaluation
+	•	ADAOP platform core
+	•	Native Quality / Compliance / Security kit
+	•	Domain Adaptation
+	•	Resource Fusion
+	•	AI Computing Platform
+
+Layout direction
+Do not use a standard left-text / right-image layout.
+
+Use a centered architecture composition:
+	•	the architecture diagram or its redesigned version should sit in the center
+	•	surrounding it, place 4 explanation clusters:
+	•	Five Core Services
+	•	Built-in Governance
+	•	Domain Adaptation
+	•	Resource Fusion + AI Computing
+
+The architecture should feel like the structural blueprint of the platform.
+
+Visual direction
+The original page-1 architecture should be reinterpreted into a cleaner, more premium diagram.
+It should retain the logic of the original, but feel more integrated into the dark premium website.
+
+Use:
+	•	a center-heavy diagram
+	•	layered structural blocks
+	•	subtle surrounding guide arcs or circular framing cues
+	•	minimal but refined labels
+
+The goal is:
+make the architecture feel readable, central, and foundational
+
+⸻
+
+Section 3 — How the Platform Operates as a Continuous Loop
+
+Headline:
+How the Platform Operates as a Continuous Loop
+
+Supporting paragraph:
+The platform does not stop at one pass through the workflow. It continuously loops data production, refinement, training, and evaluation back into better system performance.
+
+Core content to include
+Translate the operating model into a loop:
+	•	Capture
+	•	Annotate
+	•	Train
+	•	Evaluate
+	•	Improve / Feed back
+
+Also include the persistent platform foundation:
+	•	Quality
+	•	Compliance
+	•	Security
+
+Layout direction
+This section should be built around a large circular or semi-circular loop visual.
+
+Do not use a straight horizontal process strip as the main structure.
+
+Instead:
+	•	use a circular main flow
+	•	show the four or five stages as connected segments
+	•	place Quality / Compliance / Security as a foundational inner ring or lower structural layer
+
+Visual direction
+This section should feel like:
+	•	a true operating loop
+	•	not just “workflow steps”
+	•	a system that cycles back into itself
+
+Use:
+	•	circular arrows
+	•	segmented ring stages
+	•	inner support ring
+	•	subtle glowing transitions between steps
+
+The user should understand:
+the platform converts a lifecycle into a repeatable optimization loop
+
+⸻
+
+Section 4 — Data Flywheel: Better Data Improves the Platform Itself
+
+Headline:
+Data Flywheel: Better Data Improves the Platform Itself
+
+Supporting paragraph:
+AI-assisted production and human refinement do not just create datasets — they continuously improve the platform’s own annotation capabilities over time.
+
+Content to include
+Based on the uploaded document’s “data flywheel / annotation 2.0” logic:  ￼
+	•	AI pre-annotation
+	•	human refinement
+	•	higher-quality datasets
+	•	better annotation models
+	•	improved production efficiency
+	•	persistent data accumulation
+	•	model iteration with frequent updates
+	•	multimodal AI pre-annotation coverage
+
+Layout direction
+This section should be centered around one large primary flywheel.
+
+Do not reduce it to cards or bullet groups.
+
+Use:
+	•	one dominant circular flywheel
+	•	left or right supporting explanation blocks
+	•	optional small before/after cue for manual vs AI-assisted production
+
+Visual direction
+The flywheel should clearly show:
+	•	AI-assisted annotation
+	•	human correction
+	•	better data
+	•	better models
+	•	faster and smarter production
+
+This flywheel must visually feel like:
+a compounding system, not a process chart
+
+Optional:
+Use a subtle side comparison inspired by the “traditional manual annotation vs AI pre-labeling + human refinement” concept from the document, but keep the flywheel itself as the main visual.  ￼
+
+⸻
+
+Section 5 — Flywheels Beyond Production: Synthetic and Compliance Loops
+
+Headline:
+Flywheels Beyond Production: Synthetic and Compliance Loops
+
+Supporting paragraph:
+The platform compounds value not only through production efficiency, but also through synthetic-data improvement and compliant multi-party data collaboration.
+
+Content to include
+Based on the uploaded document’s synthetic flywheel and compliance flywheel content:  ￼
+
+Synthetic Flywheel
+	•	synthetic data generation
+	•	real-vs-synthetic comparison
+	•	human-labeled difference analysis
+	•	simulation model improvement
+	•	better synthetic training data
+
+Compliance Flywheel
+	•	trusted space
+	•	federated learning
+	•	more secure multi-party participation
+	•	stronger data access and collaboration value
+	•	increasing platform attractiveness and ecosystem growth
+
+Layout direction
+Use a dual-flywheel layout:
+	•	left = Synthetic Flywheel
+	•	right = Compliance Flywheel
+
+Do not use two plain feature cards.
+
+Each flywheel should have:
+	•	its own circular loop
+	•	a small supporting explanation cluster
+	•	a visually related center or platform anchor
+
+Visual direction
+These should feel like:
+	•	two distinct but related compounding loops
+	•	both connected back to the central platform logic
+
+Use:
+	•	dual ring structures
+	•	loop arrows
+	•	subtle node flow
+	•	shared visual rhythm with the Data Flywheel section
+
+This section should feel like:
+the platform compounds in multiple ways, not just through annotation efficiency
+
+⸻
+
+Section 6 — Security Architecture Built Into Every Layer
+
+Headline:
+Security Architecture Built Into Every Layer
+
+Supporting paragraph:
+Security and trust are embedded into platform access, infrastructure isolation, operational control, and deployment architecture — not added as an afterthought.
+
+Content to include
+Based on the uploaded document’s security architecture and dual-layer protection logic:  ￼
+	•	platform permissions management
+	•	logs and permission audit
+	•	isolated network / storage / compute
+	•	professional VPN access
+	•	dedicated annotation devices
+	•	monitored user behavior
+	•	operational audit
+	•	customer private cloud deployment
+	•	dual-layer data security protection
+
+Layout direction
+Do not use one illustration plus four small cards.
+
+Instead use a central security architecture diagram with surrounding trust notes.
+
+Recommended structure:
+	•	middle: security architecture map
+	•	outer ring / outer zones: trust and control layers
+	•	4 supporting note blocks around it:
+	•	Controlled Access
+	•	Isolated Environments
+	•	Auditable Operations
+	•	Dual-Layer Protection
+
+Visual direction
+This section should visually move from flywheel logic into trust boundary logic.
+
+Use:
+	•	concentric or layered rings
+	•	secure zone boundaries
+	•	permission layers
+	•	VPN / private cloud / isolated resource cues
+	•	platform control overlays
+
+This should feel like:
+security as an architecture, not a feature checklist
+
+⸻
+
+Section 7 — Closing CTA
+
+Headline:
+Ready to Build on a Platform That Compounds Over Time
+
+Body copy:
+Whether you’re scaling annotation, integrating models, improving data quality, or building secure collaboration around sensitive data, ADAOP provides a unified foundation for AI-ready data production.
+
+CTA buttons:
+	•	Talk to Our Team
+	•	Explore Platform Capabilities
+
+Supporting tags:
+Collection · Auto-Annotation · HITL · Training · Evaluation · Quality · Compliance · Security
+
+Layout direction
+Use a centered closing section with strong hierarchy and restrained atmosphere.
+
+Visual direction
+The closing visual should feel like a return to the platform core:
+	•	subtle central glow
+	•	faint circular field or signal halo
+	•	quiet system convergence
+	•	no noisy diagram
+
+This section should feel like:
+the platform comes back to center, now understood as a compounding system
+
+⸻
+
+5. Visual continuity rules across the whole page
+
+The whole page should feel visually sequential.
+
+Desired visual progression
+	•	Hero = center + orbit
+	•	Core Architecture = structured blueprint
+	•	Operating Loop = clear circular lifecycle
+	•	Data Flywheel = one strong compounding loop
+	•	Synthetic + Compliance = dual compounding loops
+	•	Security = concentric trust boundaries
+	•	CTA = centered convergence
+
+Important
+
+Do not let the page fall back into:
+	•	rows of equal cards
+	•	repeated left-text/right-image sections
+	•	disconnected mini-diagrams
+	•	generic SaaS feature-grid layouts
+
+This page should feel like one coherent system story.
+
+⸻
+
+6. Design system alignment requirement
+
+Please make sure the entire revised page continues to follow the existing design system and current style rules already established in the project.
+
+That includes:
+	•	typography hierarchy
+	•	color usage
+	•	spacing rhythm
+	•	button patterns
+	•	card/panel styling
+	•	glow treatment
+	•	section spacing
+	•	visual polish and consistency
+
+Do not invent a new style language for this page.
+This page should feel fully normalized into the current system.
+
+⸻
+
+7. Interaction / micro-interaction guidance
+
+Add subtle premium interactions such as:
+	•	hover highlights on architecture zones
+	•	loop glow or motion emphasis on flywheel arrows
+	•	step emphasis around the operating loop
+	•	secure boundary highlight in the trust section
+	•	elegant hover states on CTA buttons and tags
+
+Keep all interactions restrained, premium, and technically confident.
+
+⸻
+
+8. Final expectation
+
+This revised page should feel more systematic, more architectural, and more visually coherent than the current version.
+
+It should help users understand:
+	•	what the core platform architecture is
+	•	how the platform operates as a loop
+	•	why the platform gets stronger over time
+	•	how data, synthetic generation, and compliance each form flywheels
+	•	why security is built into the platform structure itself
+
+It should remain visually premium, fully aligned with the current design system, and clearly integrated with the rest of the site.

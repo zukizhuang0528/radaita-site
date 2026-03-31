@@ -1,0 +1,218 @@
+Create a new Pricing page and add it to the current website system.
+
+Use the attached design references as the source of truth for the page structure, pricing layout, expanded comparison section, and estimate-cost modal behavior.
+
+This is a new page, but it must remain fully aligned with the current website design system:
+	•	dark premium style
+	•	purple-led accents
+	•	current typography hierarchy
+	•	current button system unless the attached pricing design clearly differs
+	•	current spacing rhythm
+	•	current header / footer style
+
+Do not redesign the rest of the site.
+
+⸻
+
+1. Add the new Pricing page to site navigation
+
+Please inspect all pages in the current Figma Make file and make sure the Pricing top-level menu item links to the new Pricing page.
+
+Important
+	•	this link must be added consistently across every page
+	•	do not leave older pages without the Pricing link
+	•	the menu/header should remain visually unchanged except for correct link synchronization
+
+The Pricing nav item should link to the new Pricing page on all pages.
+
+⸻
+
+2. Pricing page default state
+
+Create the Pricing page so that the default visible state shows three pricing boxes/cards for three plans.
+
+Use these three plan names:
+	•	Starter Platform
+	•	Scale Platform
+	•	Expert Services
+
+The page should open in the collapsed/default state with:
+	•	hero heading / intro copy
+	•	three pricing cards visible
+	•	“More Comparison” collapsed by default
+	•	no estimate modal open by default
+
+⸻
+
+3. Three plan boxes
+
+The three plan cards should remain the primary visual focus at the top of the page.
+
+Each card should include:
+	•	plan title
+	•	short supporting description
+	•	a list of main features
+	•	primary CTA button
+	•	for the first two plans only: an “Estimate your cost” text link below the CTA button
+
+Important
+
+Only the first two plans should have the “Estimate your cost” link:
+	•	Starter Platform
+	•	Scale Platform
+
+The Expert Services card should not have an estimate-cost link.
+
+Keep the three-card layout aligned with the attached design.
+
+⸻
+
+4. “More Comparison” expand behavior
+
+Below the three plan cards, include a “More Comparison” trigger.
+
+Interaction behavior
+	•	clicking More Comparison should expand additional comparison content within the current page
+	•	it should not navigate to another page
+	•	it should not open a separate modal
+	•	it should reveal the lower comparison section inline on the same page
+
+If appropriate, the label can visually indicate expanded/collapsed state, but keep it aligned with the attached design.
+
+Important
+
+This is an inline expand / collapse interaction, not a page jump.
+
+⸻
+
+5. Estimate your cost modal
+
+For the Starter Platform and Scale Platform cards, the “Estimate your cost” link should open a modal / popup calculator.
+
+Modal behavior
+	•	opens as a popup overlay above the current page
+	•	should not navigate away
+	•	background page remains underneath
+	•	modal can be closed via the × in the top-left corner
+
+Close behavior
+	•	clicking the × closes the modal
+	•	return to the same Pricing page state underneath
+
+⸻
+
+6. Modal calculator structure
+
+Inside the estimate modal, include three slider tracks:
+	1.	Catalog
+	2.	Annotate
+	3.	Model
+
+Each slider should have:
+	•	a horizontal track
+	•	a purple draggable handle / dot
+	•	different colors on the left and right side of the handle
+	•	dynamic displayed values on the right side of each row
+
+⸻
+
+7. Slider interaction rules
+
+General slider behavior
+	•	the purple handle can be dragged left and right
+	•	dragging updates the position smoothly
+	•	the track should visually show different colors:
+	•	one color to the left of the handle
+	•	another color to the right of the handle
+	•	the interaction should feel smooth and premium
+
+Catalog axis behavior
+
+For Catalog:
+	•	the axis labels at the bottom remain fixed
+	•	they do not move with the handle
+	•	they stay anchored in place across the entire slider
+
+Annotate and Model axis behavior
+
+For Annotate and Model:
+	•	the bottom value label should move with the slider handle
+	•	it should stay visually associated with the handle position
+	•	these two are not fixed-axis labels like Catalog
+
+Important
+
+Please preserve this distinction clearly:
+	•	Catalog = fixed bottom scale
+	•	Annotate / Model = bottom value follows handle
+
+⸻
+
+8. Modal content requirements
+
+The estimate modal should include:
+	•	title
+	•	short explanatory text
+	•	the three slider rows
+	•	calculated values on the right side
+	•	recommendation sentence below the sliders
+	•	a main CTA button
+	•	a bottom note/disclaimer panel
+
+Use the attached reference as the source of truth for structure and hierarchy.
+
+⸻
+
+9. Modal close control
+
+At the top-left corner of the modal, include the × close control.
+
+Interaction behavior
+	•	clicking the × closes the popup immediately
+	•	do not navigate away
+	•	do not refresh the page
+	•	simply return to the page state underneath
+
+Keep the styling aligned with the attached reference.
+
+⸻
+
+10. Scope and fidelity requirements
+
+Please preserve the attached pricing design as closely as possible in:
+	•	layout
+	•	card structure
+	•	hierarchy
+	•	modal composition
+	•	slider positioning
+	•	expand/collapse behavior
+	•	spacing
+	•	visual density
+
+Do not:
+	•	redesign the pricing page into another layout
+	•	replace the modal with an inline calculator
+	•	replace inline comparison expansion with navigation
+	•	invent extra pricing plans
+	•	add estimate links to Expert Services
+	•	change unrelated pages except to synchronize the Pricing menu link
+
+⸻
+
+11. Final expectation
+
+After this update:
+	•	there is a new Pricing page
+	•	the Pricing menu item links correctly to it on all pages
+	•	the page shows three plan boxes by default
+	•	More Comparison expands additional comparison content inline on the same page
+	•	the first two plans have Estimate your cost links
+	•	clicking those links opens a modal calculator
+	•	the calculator contains three sliders
+	•	the purple handles can be dragged left and right
+	•	the slider track colors differ on the left and right of the handle
+	•	Catalog has fixed axis labels
+	•	Annotate and Model have value labels that move with the handle
+	•	the × closes the modal
+
+Everything should remain visually aligned with the attached design and the current website system.

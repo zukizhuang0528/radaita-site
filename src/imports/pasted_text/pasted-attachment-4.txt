@@ -1,0 +1,229 @@
+Only update this one homepage section.
+
+The section to update is the one currently showing the heading around Autonomous Driving Annotation Tools Built for Scale / the current left-text + right-tabs + right-image module.
+
+For this step, do not redesign the layout.
+Do not change any other section on the homepage.
+Do not modify spacing, structure, alignment, proportions, or the overall composition of this section.
+
+This is a content-and-media update only.
+
+⸻
+
+Keep the existing layout unchanged
+
+Please preserve:
+	•	the overall section layout
+	•	the left-text / right-tab / right-image composition
+	•	the spacing and alignment
+	•	the card/image proportions
+	•	the tab placement
+	•	the existing visual style of the section
+
+Do not:
+	•	redesign the block
+	•	move elements around
+	•	add new UI structures
+	•	change the section layout pattern
+
+⸻
+
+1. Update the section heading
+
+Replace the current heading with:
+
+Scale Your Data Annotation with AI + Human Intelligence
+
+⸻
+
+2. Update the supporting paragraph
+
+Replace the current supporting paragraph with:
+
+Turn raw data into high-quality training datasets through a three-stage intelligent pipeline.
+
+⸻
+
+3. Change the left-side feature list from 4 items to 3 items
+
+Please reduce the left-side list to 3 items only, and update the copy to the following:
+
+Item 1
+
+Auto Labeling at Scale
+AI-generated labels cut repetitive work by 30%+.
+
+Item 2
+
+Human-in-the-Loop Optimization
+Interactive annotation boosts efficiency by 3–5×.
+
+Item 3
+
+Precision Refinement
+Experts refine pre-labeled outputs into production-ready data.
+
+⸻
+
+4. Add appropriate icons for the 3 left-side items
+
+Please update the left-side icons so they match the meaning of each item.
+
+Use icon choices that feel appropriate, clear, and visually aligned with the existing design language of the site.
+
+Suggested icon directions:
+
+Auto Labeling at Scale
+
+An icon suggesting:
+	•	automation
+	•	AI generation
+	•	smart labeling
+	•	system-generated output
+
+Human-in-the-Loop Optimization
+
+An icon suggesting:
+	•	human + system collaboration
+	•	interaction
+	•	iterative optimization
+	•	workflow refinement
+
+Precision Refinement
+
+An icon suggesting:
+	•	fine adjustment
+	•	expert review
+	•	precision editing
+	•	quality control
+
+Important
+	•	keep the icon style consistent with the rest of the site
+	•	do not introduce a new icon style
+	•	icons should feel like part of the current design system
+
+⸻
+
+5. Keep the closing line and update it if needed
+
+At the bottom of the left-side content, use this closing line:
+
+Build faster. Label smarter. Train better.
+
+⸻
+
+6. Update the right-side tabs
+
+Keep the existing tab structure and placement, but replace the tab labels with:
+	1.	Auto Labeling
+	2.	HITL Optimization
+	3.	Precision Refinement
+
+Do not change the tab layout or styling pattern beyond what is needed for the text replacement.
+
+⸻
+
+7. Update the image under the tabs based on the selected tab
+
+Each tab should switch the main image below it.
+
+Please replace the current image set with new, darker, more relevant images that match the following content states.
+
+Tab 1 — Auto Labeling
+
+Use an image that clearly suggests:
+	•	AI-generated initial annotations
+	•	automated detection / segmentation / pre-labeling
+	•	a dark-toned annotation or computer-vision workflow scene
+	•	system-first labeling before human review
+
+The image should feel:
+	•	technical
+	•	dark-toned
+	•	relevant to AI pre-labeling
+	•	more like an annotation workflow than a generic AI image
+
+⸻
+
+Tab 2 — HITL Optimization
+
+Use an image that clearly suggests:
+	•	human-in-the-loop interaction
+	•	an annotator adjusting or refining AI-generated labels
+	•	human + AI collaboration inside a labeling workflow
+	•	interactive editing or controlled review
+
+The image should feel:
+	•	technical
+	•	dark-toned
+	•	collaborative
+	•	workflow-oriented
+
+⸻
+
+Tab 3 — Precision Refinement
+
+Use an image that clearly suggests:
+	•	expert review
+	•	fine correction
+	•	batch editing
+	•	quality assurance / final validation
+	•	production-ready dataset refinement
+
+The image should feel:
+	•	precise
+	•	dark-toned
+	•	quality-control oriented
+	•	visually consistent with the other two tab images
+
+⸻
+
+8. Image consistency requirement
+
+The three tab images should feel like they belong to the same workflow family.
+
+They should visually read as:
+	1.	system generates labels
+	2.	human refines interactively
+	3.	expert finalizes and validates
+
+Avoid using:
+	•	unrelated conceptual AI artwork
+	•	bright or high-key photos
+	•	abstract 3D faces or decorative graphics that do not reflect annotation workflows
+
+⸻
+
+9. Keep all other aspects unchanged
+
+Do not change:
+	•	the rest of the homepage
+	•	the section layout
+	•	the animation behavior of other sections
+	•	typography styles beyond the text replacement itself
+	•	the right-side image frame size
+	•	tab placement
+	•	section spacing
+
+Only update:
+	•	heading
+	•	supporting paragraph
+	•	left-side item count and copy
+	•	left-side icons
+	•	right-side tab labels
+	•	right-side tab images
+
+⸻
+
+Final expectation
+
+The result should remain the same section structurally, but with:
+	•	the new heading
+	•	the new supporting paragraph
+	•	3 left-side feature items instead of 4
+	•	matching icons for those 3 items
+	•	the updated closing line
+	•	new tab labels
+	•	3 new darker, workflow-relevant images under the tabs
+
+Everything else should remain unchanged.
